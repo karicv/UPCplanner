@@ -1,3 +1,3 @@
-git add https://cloud.githubusercontent.com/assets/7215251/2636773/86d1b3ba-be95-11e3-89f6-49949a16369c.png
+git add 'https://cloud.githubusercontent.com/assets/7215251/2636773/86d1b3ba-be95-11e3-89f6-49949a16369c.png'
 git commit -m "https://cloud.githubusercontent.com/assets/7215251/2636773/86d1b3ba-be95-11e3-89f6-49949a16369c.png"
 git push
